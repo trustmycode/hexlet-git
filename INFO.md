@@ -1,3 +1,5 @@
 git is awesome!
 hello, everybody
-experiments with amend
+
+add new line
+add new line
